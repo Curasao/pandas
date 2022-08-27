@@ -1,0 +1,6 @@
+,fruits,vegetable
+0,apple,tomato
+1,peach,cucumber
+2,orange,beat
+3,bannana,garlic
+4,melon,celary
